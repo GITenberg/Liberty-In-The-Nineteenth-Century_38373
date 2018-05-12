@@ -1,0 +1,32 @@
+_repo: Liberty-In-The-Nineteenth-Century_38373
+_version: 0.1.0
+alternative_title: Liberty in the 19th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holland, Frederic May
+    alias: Holland, F. M. (Frederic May)
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '39426'
+    url: http://www.gutenberg.org/2009/agents/39426
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberty'
+- !lcc 'JC'
+- !lcsh 'Social history'
+tableOfContents: 'Napoleon and his work -- Fruits of peace -- Democrats and Garrisonians
+  -- Emancipation -- Emerson and other transcendentalists -- Platform versus pulpit
+  -- The evolutionists -- Appendix: Sunday recreation -- List of dates.'
+title: Liberty in the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/38373
